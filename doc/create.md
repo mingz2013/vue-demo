@@ -1,3 +1,6 @@
+`vue init webpack vue-demo`
+
+
 ```
 avril :: ~/tmp » vue init webpack vue-demo    
 
