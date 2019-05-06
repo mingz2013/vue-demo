@@ -76,3 +76,10 @@ Documentation can be found at https://vuejs-templates.github.io/webpack
 
 avril :: ~/tmp » cd vue-demo 
 ```
+
+
+
+
+
+
+
