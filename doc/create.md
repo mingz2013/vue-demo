@@ -6,7 +6,7 @@ avril :: ~/tmp » vue init webpack vue-demo
 
 ? Project name vue-demo
 ? Project description A Vue.js project
-? Author mingz <305603665@qq.com>
+? Author mingz <mingzz2013@gmail.com>
 ? Vue build standalone
 ? Install vue-router? Yes
 ? Use ESLint to lint your code? Yes
